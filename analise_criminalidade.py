@@ -1,4 +1,7 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import sklearn as sk
 
 #carregando os dados
 df = pd.read_csv('C:\Projetos\AnaliseCriminalidade2024\DADOS_CRIMINAIS_JUN2024.csv')
