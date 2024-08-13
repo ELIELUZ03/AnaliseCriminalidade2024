@@ -12,3 +12,5 @@ CREATE TABLE clientes (
 INSERT INTO clientes (id, nome, idade) VALUES (1, 'Alice', 30);
 INSERT INTO clientes (id, nome, idade) VALUES (2, 'Bob', 25);
 INSERT INTO clientes (id, nome, idade) VALUES (3, 'Carlos', 28);
+
+-- teste implementação
